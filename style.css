@@ -1,0 +1,17 @@
+h1,h2,p{
+font-family: 'Press Start 2P', cursive;  
+color:green;
+}
+
+
+
+.content {
+    margin-top:-100px;
+    max-width: 800px;
+    margin: auto;
+    align:center;
+}
+
+body{
+    background-color:black;
+}
